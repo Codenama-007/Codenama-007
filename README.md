@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Salar Shah
 
-<!--
-**Codenama-007/Codenama-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Application Engineer | Computer Engineering Student
 
-Here are some ideas to get you started:
+I design and build **AI-powered applications, agentic systems, and RAG pipelines** with a focus on turning LLM capabilities into reliable, deployable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My work spans **agent orchestration, retrieval pipelines, backend systems, APIs, and full-stack applications** — from experimentation and evaluation to deployment.
+
+### What I Build
+
+* **Agentic AI Systems** — multi-step workflows, tool-using agents, autonomous task execution, and stateful AI applications
+* **RAG Systems** — document ingestion, preprocessing, embeddings, retrieval, context construction, and grounded generation
+* **AI Applications** — LLM-powered products built around practical user workflows rather than simple chat interfaces
+* **Backend Systems** — Python, FastAPI, databases, APIs, authentication, and service architecture
+* **Full-Stack Applications** — Next.js, TypeScript, and modern web applications for deploying AI systems
+
+### Engineering Stack
+
+**AI / ML:** LangGraph, LangChain, RAG, LLMs, NLP, TensorFlow
+**Backend:** Python, FastAPI, REST APIs, PostgreSQL, MongoDB
+**Frontend:** Next.js, TypeScript, React, Tailwind CSS
+**Tools & Infrastructure:** Git, GitHub, Docker, Vercel, Render
+
+> I learn by building real systems, debugging what breaks, and shipping what works.
+
 -->
