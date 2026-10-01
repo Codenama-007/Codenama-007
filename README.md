@@ -24,3 +24,40 @@ My work spans **agent orchestration, retrieval pipelines, backend systems, APIs,
 > I learn by building real systems, debugging what breaks, and shipping what works.
 
 -->
+## Selected Work
+
+### App Saturation
+
+**AI-powered market intelligence and saturation analysis system.**
+
+An agentic workflow that evaluates product ideas by researching existing products, analyzing the competitive landscape, and generating a structured saturation assessment.
+
+**Built with:** Python, LangGraph, LLMs, web search, agentic workflows
+
+[View Repository](https://github.com/Codenama-007/App-Saturation-)
+
+---
+
+### PDF RAG Chatbot
+
+**Retrieval-Augmented Generation system for querying documents.**
+
+A full-stack RAG application that processes uploaded PDFs, creates searchable representations, retrieves relevant context, and generates grounded answers from the source material.
+
+**Built with:** React, FastAPI, PostgreSQL, PyMuPDF, embeddings, vector search
+
+[View Repository](https://github.com/Codenama-007/rag-based-pdf-chatbot)
+
+---
+
+### TripPilotAI
+
+**Agentic travel planning application.**
+
+An AI-powered travel planning system designed around agent workflows, conversational state, external information retrieval, and personalized itinerary generation.
+
+**Built with:** LangGraph, LLMs, Tavily, MongoDB, Clerk
+
+[View Repository](https://github.com/Codenama-007/TripPilotAI)
+
+
