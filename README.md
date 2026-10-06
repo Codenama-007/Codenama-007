@@ -1,4 +1,4 @@
-# Hi, I'm Salar Shah
+# Hi, I'm Affan Shah
 
 ### AI Application Engineer | Computer Engineering Student
 
