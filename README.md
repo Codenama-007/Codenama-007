@@ -1,63 +1,74 @@
-# Hi, I'm Affan Shah
+# 👋 Hi, I'm Affan Shah
 
 ### AI Application Engineer | Computer Engineering Student
 
-I design and build **AI-powered applications, agentic systems, and RAG pipelines** with a focus on turning LLM capabilities into reliable, deployable software.
+I design and build AI-powered applications that turn LLM capabilities into reliable, deployable software.
 
-My work spans **agent orchestration, retrieval pipelines, backend systems, APIs, and full-stack applications** — from experimentation and evaluation to deployment.
+🤖 **Agentic AI Systems:** Multi-step workflows, tool-using agents, and stateful AI apps.
+📚 **RAG Pipelines:** Ingestion, embeddings, retrieval, and grounded generation.
+⚙️ **Backend Systems:** Python, FastAPI, PostgreSQL, MongoDB, APIs, and auth.
+🌐 **Full-Stack Apps:** Next.js, TypeScript, and Tailwind for shipping AI products.
+🚀 **Built to Deploy:** From experimentation and evaluation to production.
 
-### What I Build
-
-* **Agentic AI Systems** — multi-step workflows, tool-using agents, autonomous task execution, and stateful AI applications
-* **RAG Systems** — document ingestion, preprocessing, embeddings, retrieval, context construction, and grounded generation
-* **AI Applications** — LLM-powered products built around practical user workflows rather than simple chat interfaces
-* **Backend Systems** — Python, FastAPI, databases, APIs, authentication, and service architecture
-* **Full-Stack Applications** — Next.js, TypeScript, and modern web applications for deploying AI systems
-
-### Engineering Stack
-
-**AI / ML:** LangGraph, LangChain, RAG, LLMs, NLP, TensorFlow
-**Backend:** Python, FastAPI, REST APIs, PostgreSQL, MongoDB
-**Frontend:** Next.js, TypeScript, React, Tailwind CSS
-**Tools & Infrastructure:** Git, GitHub, Docker, Vercel, Render
-
-> I learn by building real systems, debugging what breaks, and shipping what works.
-
--->
-## Selected Work
-
-### App Saturation
-
-**AI-powered market intelligence and saturation analysis system.**
-
-An agentic workflow that evaluates product ideas by researching existing products, analyzing the competitive landscape, and generating a structured saturation assessment.
-
-**Built with:** Python, LangGraph, LLMs, web search, agentic workflows
-
-[View Repository](https://github.com/Codenama-007/App-Saturation-)
+Real systems, real debugging, real shipping.
 
 ---
 
-### PDF RAG Chatbot
+## 📌 Jump Ahead
 
-**Retrieval-Augmented Generation system for querying documents.**
-
-A full-stack RAG application that processes uploaded PDFs, creates searchable representations, retrieves relevant context, and generates grounded answers from the source material.
-
-**Built with:** React, FastAPI, PostgreSQL, PyMuPDF, embeddings, vector search
-
-[View Repository](https://github.com/Codenama-007/rag-based-pdf-chatbot)
+- [🧠 App Saturation](#-app-saturation)
+- [📄 PDF RAG Chatbot](#-pdf-rag-chatbot)
+- [✈️ TripPilotAI](#️-trippilotai)
+- [🛠️ Engineering Stack](#️-engineering-stack)
 
 ---
 
-### TripPilotAI
+## 🧠 App Saturation
 
-**Agentic travel planning application.**
+AI-powered market intelligence and saturation analysis.
 
-An AI-powered travel planning system designed around agent workflows, conversational state, external information retrieval, and personalized itinerary generation.
+🔍 Researches existing products using web search
+📊 Analyzes the competitive landscape
+📝 Generates a structured saturation assessment
 
-**Built with:** LangGraph, LLMs, Tavily, MongoDB, Clerk
+**Stack:** Python • LangGraph • LLMs • Web Search • Agentic Workflows
+👉 [View Repository](https://github.com/Codenama-007/App-Saturation-)
 
-[View Repository](https://github.com/Codenama-007/TripPilotAI)
+---
 
+## 📄 PDF RAG Chatbot
 
+Retrieval-Augmented Generation for querying your documents.
+
+📤 Processes uploaded PDFs
+🔎 Builds searchable embeddings and retrieves relevant context
+💬 Generates grounded answers from the source material
+
+**Stack:** React • FastAPI • PostgreSQL • PyMuPDF • Embeddings • Vector Search
+👉 [View Repository](https://github.com/Codenama-007/rag-based-pdf-chatbot)
+
+---
+
+## ✈️ TripPilotAI
+
+Agentic travel planning application.
+
+🧭 Agent workflows with conversational state
+🌍 External information retrieval
+🗓️ Personalized itinerary generation
+
+**Stack:** LangGraph • LLMs • Tavily • MongoDB • Clerk
+👉 [View Repository](https://github.com/Codenama-007/TripPilotAI)
+
+---
+
+## 🛠️ Engineering Stack
+
+🧬 **AI / ML:** LangGraph, LangChain, RAG, LLMs, NLP, TensorFlow
+⚙️ **Backend:** Python, FastAPI, REST APIs, PostgreSQL, MongoDB
+🎨 **Frontend:** Next.js, TypeScript, React, Tailwind CSS
+🧰 **Tools & Infra:** Git, GitHub, Docker, Vercel, Render
+
+---
+
+📢 **Question for you:** Do you prefer AI projects that go beyond simple chat interfaces? Open an issue or reach out and let me know!
